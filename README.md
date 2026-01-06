@@ -1,4 +1,4 @@
-**FLAMES Game in Python**
+## FLAMES Game in Python
 
 **Overview** :
 
