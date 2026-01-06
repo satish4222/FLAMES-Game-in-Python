@@ -5,12 +5,19 @@ FLAMES is a fun game used to predict the relationship between two people based o
 The program takes two names as input, removes common letters, counts the remaining letters, and uses that count to determine the relationship using the FLAMES logic.
 
 What FLAMES Stands For :
+
 Each letter in FLAMES represents a relationship:
+
 F – Friends
+
 L – Lovers
+
 A – Affection
+
 M – Marriage
+
 E – Enemies
+
 S – Siblings
 
 How the Program Works :
