@@ -6,6 +6,8 @@ This project is a Python implementation of the classic FLAMES relationship game.
 FLAMES is a fun game used to predict the relationship between two people based on their names.
 The program takes two names as input, removes common letters, counts the remaining letters, and uses that count to determine the relationship using the FLAMES logic.
 
+---
+
 **What FLAMES Stands For**:
 
 **Each letter in FLAMES represents a relationship:**
@@ -21,6 +23,8 @@ M – Marriage
 E – Enemies
 
 S – Siblings
+
+---
 
 **How the Program Works :**
 
@@ -38,6 +42,8 @@ S – Siblings
 
 7. The final relationship is displayed as output.
 
+---
+
 **Features :**
 
 -> Uses basic Python concepts like lists, loops, conditionals, and dictionaries
@@ -45,6 +51,8 @@ S – Siblings
 -> Simple and easy-to-understand logic
 
 -> Beginner-friendly project for learning Python
+
+---
 
 **Requirements :**
 Python 3.x, 
